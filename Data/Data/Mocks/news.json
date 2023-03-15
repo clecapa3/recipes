@@ -1,0 +1,205 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "nombre": "Ensalada César",
+            "ingredientes": [
+                "Lechuga romana",
+                "Pollo",
+                "Queso parmesano",
+                "Pan tostado",
+                "Anchoas",
+                "Salsa César"
+            ],
+            "preparacion": "Cortar la lechuga, cocinar el pollo, rallar el queso y preparar la salsa César. Mezclar todos los ingredientes en un tazón y servir.",
+            "imagen": "https://www.eatwell101.com/wp-content/uploads/2019/07/Chicken-Caesar-Salad-recipe-3.jpg",
+            "location": {
+                "departamento": "Lima",
+                "latitud": "-12.0431800",
+                "longitud": "-77.0282400"
+            }
+        },
+        {
+            "id": 2,
+            "nombre": "Lasagna",
+            "ingredientes": [
+                "Carne molida",
+                "Cebolla",
+                "Ajo",
+                "Tomates",
+                "Queso ricotta",
+                "Queso mozzarella",
+                "Queso parmesano",
+                "Pasta de lasagna"
+            ],
+            "preparacion": "Cocinar la carne con la cebolla y el ajo. Agregar los tomates y cocinar hasta que la salsa espese. Cocinar la pasta de lasagna según las instrucciones del paquete. En un refractario, colocar una capa de salsa de carne, una capa de pasta de lasagna, una capa de queso ricotta, una capa de queso mozzarella y una capa de queso parmesano. Repetir las capas hasta terminar con una capa de queso. Hornear por 30 minutos a 180°C.",
+            "imagen": "https://www.eatwell101.com/wp-content/uploads/2021/02/lasagna-recipe-2.jpg",
+            "location": {
+                "departamento": "Piura",
+                "latitud": "-5.1944900",
+                "longitud": "-80.6328200"
+            }
+        },
+        {
+            "id": 3,
+            "nombre": "Hamburguesa",
+            "ingredientes": [
+                "Pan para hamburguesa",
+                "Carne de res",
+                "Lechuga",
+                "Tomate",
+                "Queso cheddar",
+                "Cebolla",
+                "Mayonesa",
+                "Mostaza"
+            ],
+            "preparacion": "Cocinar la carne de res a la parrilla. Cortar la lechuga, el tomate y la cebolla en rodajas. Calentar el pan para hamburguesa. Ensamblar la hamburguesa colocando la carne, el queso cheddar, la lechuga, el tomate, la cebolla, la mayonesa y la mostaza sobre el pan.",
+            "imagen": "https://www.eatwell101.com/wp-content/uploads/2019/08/Beef-Burger-recipe-2.jpg",
+            "location": {
+                "departamento": "Lambayeque",
+                "latitud": "-6.7011100",
+                "longitud": "-79.9063900"
+            }
+        },
+        {
+            "id": 4,
+            "nombre": "Sopa de verduras",
+            "ingredientes": [
+                "Zanahorias",
+                "Apio",
+                "Cebolla",
+                "Caldo de pollo",
+                "Papas",
+                "Espinacas",
+                "Perejil"
+            ],
+            "preparacion": "Cocinar la carne de res a la parrilla. Cortar la lechuga, el tomate y la cebolla en rodajas. Calentar el pan para hamburguesa. Ensamblar la hamburguesa colocando la carne, el queso cheddar, la lechuga, el tomate, la cebolla, la mayonesa y la mostaza sobre el pan.",
+            "imagen": "https://www.eatwell101.com/wp-content/uploads/2019/08/Beef-Burger-recipe-2.jpg",
+            "location": {
+                "departamento": "La Libertad",
+                "latitud": "-8.1159900",
+                "longitud": "-79.0299800"
+            }
+        },
+        {
+            "id": 5,
+            "nombre": "Aji de Gallina",
+            "ingredientes": [
+                "Zanahorias",
+                "Apio",
+                "Cebolla",
+                "Caldo de pollo",
+                "Papas",
+                "Espinacas",
+                "Perejil"
+            ],
+            "preparacion": "Cocinar la carne de res a la parrilla. Cortar la lechuga, el tomate y la cebolla en rodajas. Calentar el pan para hamburguesa. Ensamblar la hamburguesa colocando la carne, el queso cheddar, la lechuga, el tomate, la cebolla, la mayonesa y la mostaza sobre el pan.",
+            "imagen": "https://www.eatwell101.com/wp-content/uploads/2019/08/Beef-Burger-recipe-2.jpg",
+            "location": {
+                "departamento": "Arequipa",
+                "latitud": "-16.3988890",
+                "longitud": "-71.5350000"
+            }
+        },
+        {
+            "id": 6,
+            "nombre": "Lomo Saltado",
+            "ingredientes": [
+                "Zanahorias",
+                "Apio",
+                "Cebolla",
+                "Caldo de pollo",
+                "Papas",
+                "Espinacas",
+                "Perejil"
+            ],
+            "preparacion": "Cocinar la carne de res a la parrilla. Cortar la lechuga, el tomate y la cebolla en rodajas. Calentar el pan para hamburguesa. Ensamblar la hamburguesa colocando la carne, el queso cheddar, la lechuga, el tomate, la cebolla, la mayonesa y la mostaza sobre el pan.",
+            "imagen": "https://www.eatwell101.com/wp-content/uploads/2019/08/Beef-Burger-recipe-2.jpg",
+            "location": {
+                "departamento": "Cusco",
+                "latitud": "-13.5319500",
+                "longitud": "-71.9674620"
+            }
+        },
+        {
+            "id": 7,
+            "nombre": "Ceviche",
+            "ingredientes": [
+                "Zanahorias",
+                "Apio",
+                "Cebolla",
+                "Caldo de pollo",
+                "Papas",
+                "Espinacas",
+                "Perejil"
+            ],
+            "preparacion": "Cocinar la carne de res a la parrilla. Cortar la lechuga, el tomate y la cebolla en rodajas. Calentar el pan para hamburguesa. Ensamblar la hamburguesa colocando la carne, el queso cheddar, la lechuga, el tomate, la cebolla, la mayonesa y la mostaza sobre el pan.",
+            "imagen": "https://www.eatwell101.com/wp-content/uploads/2019/08/Beef-Burger-recipe-2.jpg",
+            "location": {
+                "departamento": "Puno",
+                "latitud": "-15.8402220",
+                "longitud": "-70.0218810"
+            }
+        },
+        {
+            "id": 8,
+            "nombre": "Pastel de Chocho",
+            "ingredientes": [
+                "Zanahorias",
+                "Apio",
+                "Cebolla",
+                "Caldo de pollo",
+                "Papas",
+                "Espinacas",
+                "Perejil"
+            ],
+            "preparacion": "Cocinar la carne de res a la parrilla. Cortar la lechuga, el tomate y la cebolla en rodajas. Calentar el pan para hamburguesa. Ensamblar la hamburguesa colocando la carne, el queso cheddar, la lechuga, el tomate, la cebolla, la mayonesa y la mostaza sobre el pan.",
+            "imagen": "https://www.eatwell101.com/wp-content/uploads/2019/08/Beef-Burger-recipe-2.jpg",
+            "location": {
+                "departamento": "Ayacucho",
+                "latitud": "-13.1588900",
+                "longitud": "-74.2233300"
+            }
+        },
+        {
+            "id": 9,
+            "nombre": "Rocoto Relleno",
+            "ingredientes": [
+                "Zanahorias",
+                "Apio",
+                "Cebolla",
+                "Caldo de pollo",
+                "Papas",
+                "Espinacas",
+                "Perejil"
+            ],
+            "preparacion": "Cocinar la carne de res a la parrilla. Cortar la lechuga, el tomate y la cebolla en rodajas. Calentar el pan para hamburguesa. Ensamblar la hamburguesa colocando la carne, el queso cheddar, la lechuga, el tomate, la cebolla, la mayonesa y la mostaza sobre el pan.",
+            "imagen": "https://www.eatwell101.com/wp-content/uploads/2019/08/Beef-Burger-recipe-2.jpg",
+            "location": {
+                "departamento": "San Martín",
+                "latitud": "-6.4673900",
+                "longitud": "-76.3725500"
+            }
+        },
+        {
+            "id": 10,
+            "nombre": "Pachamanca",
+            "ingredientes": [
+                "Zanahorias",
+                "Apio",
+                "Cebolla",
+                "Caldo de pollo",
+                "Papas",
+                "Espinacas",
+                "Perejil"
+            ],
+            "preparacion": "Cocinar la carne de res a la parrilla. Cortar la lechuga, el tomate y la cebolla en rodajas. Calentar el pan para hamburguesa. Ensamblar la hamburguesa colocando la carne, el queso cheddar, la lechuga, el tomate, la cebolla, la mayonesa y la mostaza sobre el pan.",
+            "imagen": "https://www.eatwell101.com/wp-content/uploads/2019/08/Beef-Burger-recipe-2.jpg",
+            "location": {
+                "departamento": "Ucayali",
+                "latitud": "-8.3791500",
+                "longitud": "-74.5538700"
+            }
+        }
+    ]
+}
